@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hola soy Ruben! 👋
 
-<!--
-**Nebur-bit/Nebur-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apasionado por las tecnologias, me gusta saber como es que funcionan las cosas. 
 
-Here are some ideas to get you started:
+## Sobre mi 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Back end developer enfocado en Java con Springboot
+- Actualmente aprendiendo Desarrollo Mobil :iphone:
+
+## :computer: Tecnologias y Herramientas
+
+- :coffee: Java, Kotlin, C#
+- :leaves: Springboot, Jetpack Compose
+- MySql, Sqlserver, PostgresSQL
+- :smirk_cat: Git, CI/CD
+

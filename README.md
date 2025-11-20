@@ -5,7 +5,7 @@ Apasionado por las tecnologias, me gusta saber como es que funcionan las cosas.
 ## Sobre mi 
 
 - Back end developer enfocado en Java con Springboot
-- Actualmente aprendiendo Desarrollo Mobil :iphone:
+- Actualmente aprendiendo Desarrollo Movil :iphone:
 
 ## :computer: Tecnologias y Herramientas
 
